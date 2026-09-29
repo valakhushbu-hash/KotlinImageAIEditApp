@@ -2,7 +2,7 @@
 
 This project uses the OpenAI API for AI image editing.
 
-### 1. Add your API key
+### Add your API key
 
 Do **not** put your OpenAI API key directly in Kotlin source code or commit it to Git.
 
