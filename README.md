@@ -1,3 +1,5 @@
+
+![PixoAI Neon App Interface.png]
 ## 🔑 OpenAI API Key Setup
 
 This project uses the OpenAI API for AI image editing.
